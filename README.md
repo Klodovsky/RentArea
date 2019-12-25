@@ -4,8 +4,7 @@ Cars, bikes and motors online booking system | Developed with Laravel 5.4
 
 ## Download
 
-Change the current working directory to the location where you want the cloned directory to be made.
-
+Fork the RentArea repository and open terminal where you want to clone it and type the following :
 ```bash
 git clone https://github.com/Klodovskyy/RentArea
 ```
