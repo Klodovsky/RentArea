@@ -1,6 +1,9 @@
 # RentArea
 Cars, bikes and motors online booking system | Developed with Laravel 5.4
 
+![home](https://user-images.githubusercontent.com/55706752/71542401-18d6f400-2934-11ea-9341-88e5c71474b6.PNG)
+
+
 
 ## Download
 
