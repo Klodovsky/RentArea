@@ -21,7 +21,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-for contact please visit https://khaledbenhassen.tech/
+for contact please visit http://khaledbenhassen.tech/
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
